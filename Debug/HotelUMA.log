@@ -1,0 +1,6 @@
+﻿  guest.cpp
+c:\users\czarny\desktop\newerror\hoteluma\guest.cpp(51): warning C4101: 'randomNat': unreferenced local variable
+c:\users\czarny\desktop\newerror\hoteluma\guest.cpp(49): warning C4101: 'randomN': unreferenced local variable
+c:\users\czarny\desktop\newerror\hoteluma\guest.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\czarny\desktop\newerror\hoteluma\guest.cpp(272): warning C4018: '<': signed/unsigned mismatch
+  HotelUMA.vcxproj -> C:\Users\Czarny\Desktop\NEWError\HotelUMA\Debug\HotelUMA.exe
